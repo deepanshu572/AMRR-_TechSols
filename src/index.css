@@ -1,0 +1,14 @@
+@import "tailwindcss";
+*{
+      font-family: sans-serif !important;
+}
+body{
+  background-color: #0E0C15;
+  color: #fff;
+  /* background: url("https://plus.unsplash.com/premium_photo-1670271544153-dd9933f0f119?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Ymx1ZSUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D"); */
+  background-repeat: no-repeat;
+
+}
+/* .hide_scroll::-webkit-scrollbar{
+  display: none;
+} */
