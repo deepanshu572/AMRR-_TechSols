@@ -28,7 +28,7 @@ const AddItems = () => {
     const updatedItems = [...existingItems, newItem];
 
     localStorage.setItem("allItems", JSON.stringify(updatedItems));
-
+    alert("Product Added Successfully !")
     setItems(updatedItems);
     name.current.value = "";
     type.current.value = "";
